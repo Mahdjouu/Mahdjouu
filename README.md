@@ -38,8 +38,8 @@ J'approfondis mes compétences en frameworks frontend comme React.js et Angular,
 Impatiente de travailler en équipe avec d'autres développeurs sur des projets open-source liés au développement web full-stack, à l'UX, et aux technologies web innovantes.
 
 
-### 🙋‍♀️ **Posez moi vos questions sur :** :  
-Mes expériences avec HTML, CSS, JavaScript, Bootstrap, PHP, Symfony, SQL, Shell, Drupal, Laravel, Vue.js, Gitlab, WordPress, Java, JavaEE, Python, REST, et le développement multiplateforme sur Windows, Linux, et macOS.
+### 🙋‍♀️ **Posez moi vos questions sur :**
+Mes expériences avec HTML, CSS, JavaScript, PHP, Symfony, SQL, Vue.js et le développement multiplateforme sur Windows, Linux, et macOS.
 
 
 ### 💬 **Comment me contacter** :  
