@@ -13,7 +13,7 @@ Eager to team up with fellow developers on open-source projects related to full-
 
 
 ### 🙋‍♀️ **Ask me about**:  
-My experiences with HTML, CSS, JavaScript, Bootstrap, PHP, Symfony, SQL, Shell, Drupal, Laravel, Vue.js, Gitlab, WordPress, Java, JavaEE, Python, REST, and cross-platform development on Windows, Linux, and macOS.  
+My experiences with HTML, CSS, JavaScript, PHP, Symfony, SQL, Vue.js and cross-platform development on Windows, Linux, and macOS.  
 
 
 ### 💬 **How to reach me**:  
