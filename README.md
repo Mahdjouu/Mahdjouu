@@ -18,6 +18,7 @@ My experiences with HTML, CSS, JavaScript, PHP, Symfony, SQL, Vue.js and cross-p
 
 ### 💬 **How to reach me**:  
 You can find me on GitHub or connect with me via LinkedIn.  
+- [LinkedIn](https://www.linkedin.com/in/mahdjouba-bouzouina/)
 
 
 ### 💃 **Fun fact about me**:  
@@ -44,6 +45,7 @@ Mes expériences avec HTML, CSS, JavaScript, PHP, Symfony, SQL, Vue.js et le dé
 
 ### 💬 **Comment me contacter** :  
 Vous pouvez me trouver sur GitHub ou me contacter via LinkedIn.
+- [LinkedIn](https://www.linkedin.com/in/mahdjouba-bouzouina/)
 
 
 ### 💃 **Fun fact à propos de moi** :  
